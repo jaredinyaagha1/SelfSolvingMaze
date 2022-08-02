@@ -21,4 +21,4 @@ r   =
 h0  =
 a0  =
 
-These tech docs are mans greatest attempt at breaking down presumably complex concepts into layman's english so that anyone could understand it, thus transferring ideas from your brain to mine... only thing is reading comprehension is essential in order to mentally digest what is attempting to be conveyed
+These tech docs are man's greatest attempt at breaking down presumably complex concepts into layman's english so that anyone could understand it, thus transferring ideas from your brain to mine... only thing is reading comprehension is essential in order to mentally digest what is attempting to be conveyed
